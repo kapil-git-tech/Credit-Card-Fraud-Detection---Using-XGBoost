@@ -11,7 +11,7 @@
 * Exploring trees (lookking at an example tree)
 * Distribution of class on the predicted probabilities
 
-[View the Notebook on GitHub repository](https://github.com/kapil-git-tech/Everything_about_ARIMA/blob/main/everything-you-need-to-know-about-arima.ipynb)
+[View the Notebook on GitHub repository](https://github.com/kapil-git-tech/Credit-Card-Fraud-Detection---Using-XGBoost/blob/master/credit-card-fraud-detection-using-xgboost.ipynb)
 
 [Dataset location: 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
